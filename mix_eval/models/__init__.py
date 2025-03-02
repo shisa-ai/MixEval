@@ -92,6 +92,8 @@ AVAILABLE_MODELS = {
     
     
     # api models
+    "vllm": "VLLM",
+
     "gpt_35_turbo_0125": "GPT_35_Turbo_0125",
     "gpt_35_turbo_1106": "GPT_35_Turbo_1106",
     "gpt_4_turbo_2024_04_09": "GPT_4_Turbo_2024_04_09",
